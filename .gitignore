@@ -1,0 +1,10 @@
+# Project files
+/node_modules/
+/.vscode/
+
+# Gatsby output files
+/.cache/
+/public/
+
+# Mac files
+.DS_Store
